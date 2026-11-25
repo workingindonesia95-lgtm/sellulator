@@ -13,7 +13,7 @@ import 'settings.dart' show kAppVersion;
 
 /// Isi dengan URL Web App Apps Script (berakhiran /exec).
 const kUpdateEndpoint =
-    'https://script.google.com/macros/s/AKfycbxvGfBAXNzDJhZIAr1kRCELV7Am4xKKrUEjtmE-PEpszUZd1-MQFoWVBawXol59gsNo/exec';
+    'https://script.google.com/macros/s/AKfycbxB1rWAu5MogHsgsfRBuoY28h-iWlAuxe_JsSye01kgjczshoboovjCF10BZRqYpdHJ/exec';
 
 class UpdateInfo {
   UpdateInfo({
